@@ -34,7 +34,7 @@ The model follows a standard Encoder-Decoder architecture:
 2.  **Attention Mechanism:** At each step of generation, the Attention module weighs the importance of different regions in the image feature map, based on the decoder's current hidden state.
 3.  **RNN Decoder:** An LSTM (or GRU) cell takes the previously generated word and the "context vector" (from Attention) to predict the next word in the sequence.
 
-<img width="357" height="11" alt="image" src="https://github.com/user-attachments/assets/0c11262a-1db8-42a5-8f30-a59b44b9be24" />
+<img width="1373" height="381" alt="image" src="https://github.com/user-attachments/assets/d144503b-e341-40f5-9f17-5770c296a1c0" />
 
 ---
 
