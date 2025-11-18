@@ -96,3 +96,19 @@ Run the cells sequentially in Jupyter Notebook to train the model and generate c
 ```bash
 jupyter notebook Q2_part1.ipynb
 ```
+---
+
+
+
+## 🙏 Acknowledgements
+
+* **Course:** Deep Learning (Neural Networks) - University of Tehran
+* **Authors:**
+    * Ali Ghorbani Bargani (810103209)
+    * Mobin Tirafkan (810103091)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
